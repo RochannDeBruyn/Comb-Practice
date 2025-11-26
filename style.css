@@ -9,3 +9,7 @@
 button + p {
   color: red;
 }
+
+button ~ p {
+  font-size: 14px;
+}
