@@ -5,3 +5,7 @@
 .details > p {
   font-weight: bold;
 }
+
+button + p {
+  color: red;
+}
