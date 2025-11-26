@@ -1,3 +1,7 @@
 .details p {
   color: blue;
 }
+
+.details > p {
+  font-weight: bold;
+}
